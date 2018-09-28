@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LegendaryQuiz</string>
+    <string name="grading_rubric">Q1-Q3/@ 5marks each. Q5-Q6/@ 10marks each. Q4+Q7 = 15marks. You earn -5marks each with a wrong pick in Q4+Q7</string>
+    <string name="instruction_1">Attempt all Questions before You Submit</string>
+</resources>
